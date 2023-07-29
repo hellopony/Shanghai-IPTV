@@ -1,6 +1,8 @@
 # 上海电信
 
 - 组播播放列表: https://raw.githubusercontent.com/ihipop/Shanghai-IPTV/master/tel_mu.m3u8
+- 源：   https://epg.deny.vip/sh/tel-xteve.m3u
+- EPG： https://epg.deny.vip/sh/tel-epg.xml
 
 # LOGO 目录
 
